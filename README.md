@@ -1,4 +1,4 @@
-### Hey there! <img src="https://github.com/user-attachments/assets/9222de8c-5eea-4953-a851-a67a189bcec0" alt="blob" width="30">
+### Hey there! <img src="https://github.com/user-attachments/assets/9222de8c-5eea-4953-a851-a67a189bcec0" alt="blob" width="30" align="center">
 
 I'm [Diego](https://linkedin.com/in/tu-usuario), a software developer based in Spain.
 
