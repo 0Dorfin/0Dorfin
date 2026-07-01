@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Diego, a software developer based in Spain.
+I'm [Diego](https://linkedin.com/in/tu-usuario), a software developer based in Spain.
 
 I design scalable data pipelines and AI-driven solutions.
 
