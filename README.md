@@ -11,7 +11,7 @@ Right now, I'm diving deep into modern cloud solutions.
 ## Stack
 
 **Languages:** `Python` `Java` `Kotlin` `C#` `TypeScript` `SQL` `HTML5` `CSS3`  
-**AI & Data:** `PyTorch` `TensorFlow` `Scikit-Learn` `Airflow` `Kafka` `n8n` `Databricks`  
+**AI & Data:** `PyTorch` `TensorFlow` `Scikit-Learn` `Airflow` `Kafka` `NiFi` `n8n` `Databricks`  
 **Frameworks:** `FastAPI` `.NET` `Next.js` `React` `Unity` `Streamlit`  
 **Cloud, DBs & Tools:** `Azure` `AWS` `Docker` `PostgreSQL` `MySQL` `MongoDB` `SQL Server` `Git`  
 **BI & Visualization:** `Power BI` `Grafana` `Tableau`
