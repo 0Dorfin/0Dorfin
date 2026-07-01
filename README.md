@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**0Dorfin/0Dorfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diego, a software developer based in Spain.
 
-Here are some ideas to get you started:
+I design scalable data pipelines and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+
+Right now, I'm diving deep into modern cloud solutions.
+
+## Stack
+
+**Languages:** `Python` `Java` `Kotlin` `C#` `TypeScript` `SQL` `HTML5` `CSS3`  
+**AI & Data:** `PyTorch` `TensorFlow` `Scikit-Learn` `Airflow` `Kafka` `n8n` `Databricks`  
+**Frameworks:** `FastAPI` `.NET` `Next.js` `React`  
+**Cloud, DBs & Tools:** `Azure` `AWS` `Docker` `PostgreSQL` `MySQL` `MongoDB` `SQL Server` `Git`  
+**BI & Visualization:** `Power BI` `Grafana` `Tableau`
